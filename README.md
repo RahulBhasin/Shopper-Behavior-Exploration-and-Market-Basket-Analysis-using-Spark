@@ -15,7 +15,7 @@ https://www.kaggle.com/c/instacart-market-basket-analysis/data
 
 ### Platform used
 
-I have used Apache Spark for the implementation of this project and using PySpark, SparkSql and later Scala programming languages for coding. You can try Apache Spark on the Databricks cloud for free from the link below.
+I have used Apache Spark for the implementation of this project and using PySpark, SparkSql and later Scala programming languages for coding. You can try Apache Spark on the Databricks cloud for free from the link below. 
 
 ```
 https://databricks.com/spark/about
